@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Quadratic Formula Calculator](https://www.calculator.io/quadratic-formula-calculator/ "Quadratic Formula Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_quadratic_formula_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Quadratic Formula Calculator to the sidebar through the `Appearance -> Widgets -> Quadratic Formula Calculator` menu in WordPress.
+* Add the shortcode `[ci_quadratic_formula_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_quadratic_formula_calculator(); ?>` to your template where you would like the Quadratic Formula Calculator to appear.
 
 == Screenshots ==

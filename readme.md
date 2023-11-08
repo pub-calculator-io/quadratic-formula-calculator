@@ -12,9 +12,8 @@ Quadratic formula calculator solves quadratic equations using the quadratic form
 3. Activate the [Quadratic Formula Calculator](https://www.calculator.io/quadratic-formula-calculator/ "Quadratic Formula Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_quadratic_formula_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Quadratic Formula Calculator to the sidebar through the `Appearance -> Widgets -> Quadratic Formula Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_quadratic_formula_calculator(); ?>` to your template where you would like the Quadratic Formula Calculator to appear.
+* Add the shortcode `[ci_quadratic_formula_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_quadratic_formula_calculator(); ?>` to your template where you would like the Quadratic Formula Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
