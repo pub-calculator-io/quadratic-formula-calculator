@@ -13,6 +13,8 @@ Quadratic formula calculator solves quadratic equations using the quadratic form
 
 Quadratic formula calculator solves quadratic equations using the quadratic formula. Quadratic equations are solved for real roots and complex roots.
 
+[Quadratic Formula Calculator Homepage](https://www.calculator.io/quadratic-formula-calculator/ "Quadratic Formula Calculator Homepage")
+
 __Shortcode__
 
 Use the Quadratic Formula Calculator shortcode:
