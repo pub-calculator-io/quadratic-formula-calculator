@@ -1,4 +1,4 @@
-# Quadratic Formula Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Quadratic Formula Calculator Widget for WordPress
 
 Quadratic formula calculator solves quadratic equations using the quadratic formula. Quadratic equations are solved for real roots and complex roots.
 
