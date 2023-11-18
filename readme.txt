@@ -1,4 +1,4 @@
-=== Quadratic Formula Calculator by Calculator.iO ===
+=== Quadratic Formula Calculator ===
 Contributors: calculatorio
 Tags: quadratic formula calculator, solving quadratic equations, ax²+bx+c&#x3D;0 formula, real and complex roots, discriminant calculation, quadratic equation solutions, algebraic quadratic solving, discriminant in quadratics, quadratic formula application, simplifying quadratic solutions
 Requires at least: 5.0
