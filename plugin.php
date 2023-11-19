@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Quadratic Formula Calculator by www.calculator.io
+Plugin Name: CI Quadratic formula calculator
 Plugin URI: https://www.calculator.io/quadratic-formula-calculator/
 Description: Quadratic formula calculator solves quadratic equations using the quadratic formula. Quadratic equations are solved for real roots and complex roots.
 Version: 1.0.0
