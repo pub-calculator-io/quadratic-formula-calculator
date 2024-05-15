@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Quadratic Formu
 == Screenshots ==
 
 1. The Quadratic Formula Calculator Input Form.
-2. The Quadratic Formula Calculator Calculation Results.
 
 == Installation ==
 

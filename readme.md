@@ -3,7 +3,6 @@
 Quadratic formula calculator solves quadratic equations using the quadratic formula. Quadratic equations are solved for real roots and complex roots.
 
 ![Quadratic Formula Calculator Input Form](/assets/images/screenshot-1.png "Quadratic Formula Calculator Input Form")
-![Quadratic Formula Calculator Calculation Results](/assets/images/screenshot-2.png "Quadratic Formula Calculator Calculation Results")
 
 ## Installation
 
